@@ -322,11 +322,7 @@ nav .fa-solid{
 } 
 @media only screen and (max-width: 1000px){
     #header{
-        background-image: url(images/ChatGPT\ Image\ Oct\ 27\,\ 2025\,\ 09_40_00\ PM.png);
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed; /* optional, gives parallax feel */
-        position: relative;
+        background-image: url(images/pexels-cottonbro-5483071.jpg);
      }
     .header-text{
         margin-top: 100%;
@@ -394,6 +390,7 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+
 
 
 
